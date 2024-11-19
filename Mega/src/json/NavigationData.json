@@ -1,0 +1,90 @@
+{
+    "navbar": {
+      "leftMenu": [
+        { "name": "MEN", "link": "/men" },
+        { "name": "WOMEN", "link": "/women" },
+        { "name": "SOCKS", "link": "/socks" },
+        { "name": "SALE", "link": "/sale", "highlight": true }
+      ],
+      "logo": {
+        "text": "Universal Commerce",
+        "link": "/"
+      },
+      "rightMenu": [
+        { "name": "SUSTAINABILITY", "link": "/sustainability" },
+        { "name": "RERUN", "link": "/rerun" },
+        { "name": "STORES", "link": "/stores" }
+      ],
+      "icons": [
+        { "name": "search", "link": "/search" },
+        { "name": "user", "link": "/account" },
+        { "name": "help", "link": "/help" },
+        { "name": "cart", "link": "/cart" }
+      ]
+    },
+    "footer": {
+      "columns": [
+        {
+          "title": "HELP",
+          "items": [
+            { "name": "1-888-963-8944", "link": "tel:1-888-963-8944" },
+            { "name": "1-814-251-9966 (Text)", "link": "sms:1-814-251-9966" },
+            { "name": "help@allbirds.com", "link": "mailto:help@allbirds.com" },
+            { "name": "Returns/Exchanges", "link": "/returns" },
+            { "name": "FAQ/Contact Us", "link": "/faq" },
+            { "name": "Afterpay", "link": "/afterpay" }
+          ]
+        },
+        {
+          "title": "SHOP",
+          "items": [
+            { "name": "Men's Shoes", "link": "/mens-shoes" },
+            { "name": "Women's Shoes", "link": "/womens-shoes" },
+            { "name": "Men's Apparel", "link": "/mens-apparel" },
+            { "name": "Women's Apparel", "link": "/womens-apparel" },
+            { "name": "Socks", "link": "/socks" },
+            { "name": "Gift Cards", "link": "/gift-cards" },
+            { "name": "Refer a Friend", "link": "/refer" }
+          ]
+        },
+        {
+          "title": "COMPANY",
+          "items": [
+            { "name": "Our Stores", "link": "/stores" },
+            { "name": "Our Story", "link": "/story" },
+            { "name": "Our Materials", "link": "/materials" },
+            { "name": "Investors", "link": "/investors" },
+         
+            { "name": "Careers", "link": "/careers" },
+            { "name": "Press", "link": "/press" },
+           
+            { "name": "Our Blog - The Perch", "link": "/blog" }
+          ]
+        }
+      ],
+      "socialMedia": [
+        { "name": "Instagram", "link": "https://www.instagram.com/allbirds" },
+        { "name": "TikTok", "link": "https://www.tiktok.com/@allbirds" },
+        { "name": "Twitter", "link": "https://twitter.com/allbirds" },
+        { "name": "Facebook", "link": "https://www.facebook.com/allbirds" },
+        { "name": "Youtube", "link": "https://www.youtube.com/allbirds" },
+        { "name": "Pinterest", "link": "https://www.pinterest.com/allbirds" }
+      ],
+      "followTheFlock": {
+        "title": "FOLLOW THE FLOCK",
+        "description": "Exclusive offers, a heads up on new things, and sightings of Allbirds in the wild. Oh, we have cute sheep, too."
+      },
+    
+      "countryFlags": [
+        { "code": "us", "name": "United States" },
+        { "code": "ca", "name": "Canada" },
+        { "code": "au", "name": "Australia" },
+        { "code": "nz", "name": "New Zealand" },
+        { "code": "gb", "name": "United Kingdom" },
+        { "code": "eu", "name": "European Union" },
+        { "code": "jp", "name": "Japan" },
+        { "code": "kr", "name": "South Korea" },
+        { "code": "cn", "name": "China" }
+      ]
+    }
+  }

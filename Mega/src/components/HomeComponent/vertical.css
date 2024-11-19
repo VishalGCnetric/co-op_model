@@ -1,0 +1,32 @@
+/* customStyles.css */
+
+.vertical-dots {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index:auto;
+  }
+  
+  .vertical-dots ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  .vertical-dots ul li {
+    margin-bottom: 10px;
+  }
+  
+  .vertical-dots ul li button {
+    background-color: #1f2937; /* gray-800 */
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: block;
+  }
+  
+  .vertical-dots ul li.slick-active button {
+    background-color: #d1d5db; /* gray-300 */
+  }
+  
